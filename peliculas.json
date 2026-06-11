@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "AMERICA TV",
+      "title": "Tv",
       "logo": "https://i.ibb.co/placeholder.png",
-      "type": "channel",
+      "type": "movie",
       "format": "m3u8",
-      "url": "http://8.243.126.131:8000/play/a01q/index.m3u8?hls"
+      "url": "http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/272053.m3u8"
     }
   ]
 }
