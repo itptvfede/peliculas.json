@@ -1,8 +1,11 @@
-
-[
-  {
-    "titulo": "Mi Película",
-    "logo": "https://via.placeholder.com/225x225?text=Pelicula",
-    "url": "https://vod-limit-stream.dramasfree.com/407deaa92fd271f0bfe897c6360c0102/3a4cac5cf3ff4f4c8e756564c13bc889-ee4a61490e9a13f0ae786aa835a85b97-ld.m3u8?hdnts=exp=1781706452_acl=/407deaa92fd271f0bfe897c6360c0102/*_hmac=9b187e9bb35d0965a888f100e012c92e4d9ee7bca09783cf7b7fb4f9babbfe9d"
-  }
-]
+{
+  "items": [
+    {
+      "title": "AMERICA TV",
+      "logo": "https://i.ibb.co/placeholder.png",
+      "type": "channel",
+      "format": "m3u8",
+      "url": "http://8.243.126.131:8000/play/a01q/index.m3u8?hls"
+    }
+  ]
+}
