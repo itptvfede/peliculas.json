@@ -1,6 +1,7 @@
 [
   {
     "titulo": "Sudáfrica vs Corea del Sur",
+    "canal": "TyC Sports",
     "stream": "https://hls1.mywebtv.cloud/hls/tyc/index.m3u8?token=NnTCL3LPfaUH73Lrxq39iw&expires=1782360022",
     "equipo1": "Sudáfrica",
     "logo1": "https://flagcdn.com/w320/za.png",
