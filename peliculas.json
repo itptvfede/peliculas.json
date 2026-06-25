@@ -1,0 +1,13 @@
+[
+  {
+    "titulo": "Sudáfrica vs Corea del Sur",
+    "stream": "https://hls1.mywebtv.cloud/hls/tyc/index.m3u8?token=NnTCL3LPfaUH73Lrxq39iw&expires=1782360022",
+    "equipo1": "Sudáfrica",
+    "logo1": "https://flagcdn.com/w320/za.png",
+    "equipo2": "Corea del Sur",
+    "logo2": "https://flagcdn.com/w320/kr.png",
+    "inicio": "2026-06-15T22:00:00",
+    "fin": "2026-06-15T23:45:00",
+    "estado": "programado"
+  }
+]
